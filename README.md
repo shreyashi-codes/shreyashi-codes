@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyashi-raj/">LinkedIn</a> ·
   <a href="mailto:shreyashir126@gmail.com">Email</a> ·
-  <a href="https://YOUR_USERNAME.github.io">Portfolio</a>
+  <a href="https://shreyashi-raj.netlify.app">Portfolio</a>
 </p>
 
 ---
